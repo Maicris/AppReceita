@@ -14,6 +14,7 @@
 		A8514334226F389E00673537 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A8514332226F389E00673537 /* LaunchScreen.storyboard */; };
 		A851433F226F389E00673537 /* ReceitaAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A851433E226F389E00673537 /* ReceitaAppTests.swift */; };
 		A851434A226F389E00673537 /* ReceitaAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8514349226F389E00673537 /* ReceitaAppUITests.swift */; };
+		A8514358226F41B400673537 /* CocoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8514357226F41B400673537 /* CocoViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		A8514345226F389E00673537 /* ReceitaAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ReceitaAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A8514349226F389E00673537 /* ReceitaAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReceitaAppUITests.swift; sourceTree = "<group>"; };
 		A851434B226F389E00673537 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A8514357226F41B400673537 /* CocoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CocoViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				A8514330226F389E00673537 /* Assets.xcassets */,
 				A8514332226F389E00673537 /* LaunchScreen.storyboard */,
 				A8514335226F389E00673537 /* Info.plist */,
+				A8514357226F41B400673537 /* CocoViewController.swift */,
 			);
 			path = ReceitaApp;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			files = (
 				A851432C226F389D00673537 /* ViewController.swift in Sources */,
 				A851432A226F389D00673537 /* AppDelegate.swift in Sources */,
+				A8514358226F41B400673537 /* CocoViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
