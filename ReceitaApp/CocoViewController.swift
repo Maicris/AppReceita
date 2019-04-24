@@ -18,6 +18,7 @@ class CocoViewController: UIViewController {
     
     @IBAction func back(_ sender: Any) {
         self.dismiss(animated: true, completion: nil)
+        print("teste")
     }
     
     
