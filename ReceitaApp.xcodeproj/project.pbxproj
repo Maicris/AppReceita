@@ -16,6 +16,7 @@
 		A851434A226F389E00673537 /* ReceitaAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8514349226F389E00673537 /* ReceitaAppUITests.swift */; };
 		A8514358226F41B400673537 /* CocoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8514357226F41B400673537 /* CocoViewController.swift */; };
 		A8DEFC9D22708818003F3D23 /* novo.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8DEFC9C22708818003F3D23 /* novo.swift */; };
+		A8DEFC9F22708B0E003F3D23 /* novo2.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8DEFC9E22708B0E003F3D23 /* novo2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		A851434B226F389E00673537 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A8514357226F41B400673537 /* CocoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CocoViewController.swift; sourceTree = "<group>"; };
 		A8DEFC9C22708818003F3D23 /* novo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = novo.swift; sourceTree = "<group>"; };
+		A8DEFC9E22708B0E003F3D23 /* novo2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = novo2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				A8514335226F389E00673537 /* Info.plist */,
 				A8514357226F41B400673537 /* CocoViewController.swift */,
 				A8DEFC9C22708818003F3D23 /* novo.swift */,
+				A8DEFC9E22708B0E003F3D23 /* novo2.swift */,
 			);
 			path = ReceitaApp;
 			sourceTree = "<group>";
@@ -263,6 +266,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A851432C226F389D00673537 /* ViewController.swift in Sources */,
+				A8DEFC9F22708B0E003F3D23 /* novo2.swift in Sources */,
 				A851432A226F389D00673537 /* AppDelegate.swift in Sources */,
 				A8514358226F41B400673537 /* CocoViewController.swift in Sources */,
 				A8DEFC9D22708818003F3D23 /* novo.swift in Sources */,
