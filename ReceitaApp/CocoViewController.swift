@@ -15,6 +15,8 @@ class CocoViewController: UIViewController {
 
         print("Feito na master")
         
+        print("Conflito gerado na master")
+        
         // Do any additional setup after loading the view.
     }
     
